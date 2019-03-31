@@ -1,5 +1,6 @@
 # PL-repo
 Repository of Ege Şanel and Ebru Ekin for the PL course in CSE Akdeniz University
+This project is done on a different platform which is why there is only one committant.Both contributors did their part.
 
 ///////////////////Group Members///////////////////
 
