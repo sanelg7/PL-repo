@@ -2,12 +2,16 @@
 Repository of Ege Şanel and Ebru Ekin for the PL course in CSE Akdeniz University
 
 ///////////////////Group Members///////////////////
+
 Ege Şanel - 20150807026
 Ebru Ekin - 20150807032
 
 ///////////////////PL-Name/////////////////// 
+
 Our language is called "calibur".
+
 ///////////////////Grammar(BNF)///////////////////
+
 <import declarations> ::= <import declaration>
 <class body> ::= { <class body declarations>? }
 <static> ::= static 
@@ -39,7 +43,11 @@ Our language is called "calibur".
 <character literal> ::= ' <single character>
 <NULL> ::= null  
 <keyword> ::= <keywords...>  
+  
 ///////////////////Sysntax///////////////////
+
 Our syntax is same with Java as our grammer is similar to Java also.
+
 ///////////////////More///////////////////
+
 We choose Java as our referance language because of our familiarity with it.We also decided on not making many differences as this is our first lex project (or anything close). We tried to include many keywords and operational signs but we know there are lots missing as of right now, the reason being that we could not use all of them in the yacc part.
