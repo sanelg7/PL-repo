@@ -5,7 +5,7 @@ This project is done on a different platform which is why there is only one comm
 ///////////////////Group Members///////////////////
 
 Ege Şanel - 20150807026
-Ebru Ekin - 20150807032
+
 
 ///////////////////PL-Name/////////////////// 
 
