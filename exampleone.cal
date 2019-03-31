@@ -1,0 +1,12 @@
+public class exampleone
+{
+
+***commentingggggg
+public static void main(String[] args)
+{	String s1 = "Computer Science";
+	int x = 307;
+	String s2 = s1 + " " + x;
+	System.out.println("s1: " + s1);
+	System.out.print(s2);
+}
+}	
